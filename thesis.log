@@ -1,0 +1,499 @@
+This is pdfTeXk, Version 3.1415926-1.40.9 (Web2C 7.5.7) (format=pdflatex 2008.12.28)  13 AUG 2012 11:54
+entering extended mode
+ %&-line parsing enabled.
+**thesis.tex
+(./thesis.tex
+LaTeX2e <2005/12/01>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, german-x-2008-06-18, ngerman-x-2008-06-18, ancientgreek, ibycus, ar
+abic, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danish, dutc
+h, esperanto, estonian, farsi, finnish, french, galician, german, ngerman, mono
+greek, greek, hungarian, icelandic, indonesian, interlingua, irish, italian, la
+tin, lithuanian, mongolian, mongolian2a, bokmal, nynorsk, polish, portuguese, r
+omanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, turki
+sh, ukenglish, ukrainian, uppersorbian, welsh, loaded.
+(./Classes/CUEDthesisPSnPDF.cls
+
+LaTeX Warning: You have requested document class `Classes/CUEDthesisPSnPDF',
+               but the document class provides `CUEDthesisPSnPDF'.
+
+Document Class: CUEDthesisPSnPDF 2010/07/14 v1.1 CUED thesis class
+(/usr/local/texlive/2008/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2005/09/16 v1.4f Standard LaTeX document class
+(/usr/local/texlive/2008/texmf-dist/tex/latex/base/bk12.clo
+File: bk12.clo 2005/09/16 v1.4f Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2008/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2000/12/01 6.7 Contributed and Supported LaTeX2e package
+
+Package: `setspace' 6.7 <2000/12/01>
+) (/usr/local/texlive/2008/texmf-dist/tex/latex/tocbibind/tocbibind.sty
+Package: tocbibind 2003/03/13 v1.5g extra ToC listings
+
+
+Package tocbibind Note: The document has chapter divisions.
+
+
+Package tocbibind Note: Using chapter style headings, unless overridden.
+
+) (/usr/local/texlive/2008/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2002/01/22 v2.2d
+
+(/usr/local/texlive/2008/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2001/10/25 v2.2f
+\@emptytoks=\toks14
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 132.
+))
+(/usr/local/texlive/2008/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip43
+\f@ncyO@elh=\skip44
+\f@ncyO@erh=\skip45
+\f@ncyO@olh=\skip46
+\f@ncyO@orh=\skip47
+\f@ncyO@elf=\skip48
+\f@ncyO@erf=\skip49
+\f@ncyO@olf=\skip50
+\f@ncyO@orf=\skip51
+)
+(/usr/local/texlive/2008/texmf-dist/tex/latex/amsfonts/eucal.sty
+Package: eucal 2001/10/01 v2.2d Euler Script fonts
+LaTeX Font Info:    Overwriting math alphabet `\EuScript' in version `bold'
+(Font)                  U/eus/m/n --> U/eus/b/n on input line 55.
+)
+(/usr/local/texlive/2008/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2008/07/06 v3.8l The Babel package
+
+(/usr/local/texlive/2008/texmf-dist/tex/generic/babel/english.ldf
+Language: english 2005/03/30 v3.3o English support from the babel system
+
+(/usr/local/texlive/2008/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2008/07/06 v3.8l Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+(/usr/local/texlive/2008/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2008/texmf/tex/latex/config/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+
+(/usr/local/texlive/2008/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2008/09/08 v0.04l Graphics/color for pdfTeX
+\Gread@gobject=\count89
+)
+(/usr/local/texlive/2008/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+(/usr/local/texlive/2008/texmf-dist/tex/latex/footmisc/footmisc.sty
+Package: footmisc 2007/06/12 v5.4a a miscellany of footnote facilities
+\FN@temptoken=\toks15
+\footnotemargin=\dimen104
+\c@pp@next@reset=\count90
+\c@@fnserial=\count91
+Package footmisc Info: Declaring symbol style bringhurst on input line 910.
+Package footmisc Info: Declaring symbol style chicago on input line 918.
+Package footmisc Info: Declaring symbol style wiley on input line 927.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 938.
+
+Package footmisc Info: Declaring symbol style lamport* on input line 958.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 979
+.
+)
+(/usr/local/texlive/2008/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2009/02/02 8.3 (PWD, AO)
+\bibhang=\skip52
+\bibsep=\skip53
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count92
+)
+(/usr/local/texlive/2008/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2008/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2007/12/12 v1.6 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in pdf mode detected.
+)
+(/usr/local/texlive/2008/texmf-dist/tex/latex/nomencl/nomencl.sty
+Package: nomencl 2005/09/22 v4.2 Nomenclature package (LN)
+\nomlabelwidth=\dimen105
+\nom@tempdim=\dimen106
+\nomitemsep=\skip54
+)
+\@nomenclaturefile=\write3
+\openout3 = `thesis.nlo'.
+
+
+Writing nomenclature file thesis.nlo
+(/usr/local/texlive/2008/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2009/02/22 v6.78p Hypertext links for LaTeX
+
+(/usr/local/texlive/2008/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/local/texlive/2008/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2008/11/04 v1.4 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2008/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2009/01/23 v0.5 Provides ifxetex conditional
+)
+(/usr/local/texlive/2008/texmf-dist/tex/latex/oberdiek/hycolor.sty
+Package: hycolor 2008/09/08 v1.4 Code for color options of hyperref/bookmark (H
+O)
+
+(/usr/local/texlive/2008/texmf-dist/tex/latex/oberdiek/xcolor-patch.sty
+Package: xcolor-patch 2008/09/08 xcolor patch
+))
+\@linkdim=\dimen107
+\Hy@linkcounter=\count93
+\Hy@pagecounter=\count94
+
+(/usr/local/texlive/2008/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2009/02/22 v6.78p Hyperref: PDFDocEncoding definition (HO)
+)
+(/usr/local/texlive/2008/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2007/12/12 v1.2 Prefix for e-TeX command names (HO)
+
+(/usr/local/texlive/2008/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2007/09/09 v1.2 Providing info/warning/message (HO)
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)
+(/usr/local/texlive/2008/texmf/tex/latex/config/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+(/usr/local/texlive/2008/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2007/10/18 v3.0 Keyval support for LaTeX options (HO)
+)
+Package hyperref Info: Option `plainpages' set `false' on input line 2824.
+Package hyperref Info: Option `pdfpagelabels' set `true' on input line 2824.
+Package hyperref Info: Option `bookmarks' set `true' on input line 2824.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 2824.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 2824
+.
+Package hyperref Info: Option `breaklinks' set `true' on input line 2824.
+Package hyperref Info: Option `linktocpage' set `true' on input line 2824.
+Package hyperref Info: Option `colorlinks' set `true' on input line 2824.
+Package hyperref Info: Option `hyperindex' set `true' on input line 2824.
+Package hyperref Info: Option `hyperfigures' set `true' on input line 2824.
+Package hyperref Info: Hyper figures ON on input line 2933.
+Package hyperref Info: Link nesting OFF on input line 2940.
+Package hyperref Info: Hyper index ON on input line 2943.
+Package hyperref Info: Plain pages OFF on input line 2950.
+Package hyperref Info: Backreferencing ON on input line 2953.
+
+Implicit mode ON; LaTeX internals redefined
+Package hyperref Info: Bookmarks ON on input line 3145.
+(/usr/local/texlive/2008/texmf-dist/tex/latex/hyperref/backref.sty
+Package: backref 2006/09/05 v1.28 Bibliographical back referencing
+)
+(/usr/local/texlive/2008/texmf-dist/tex/latex/ltxmisc/url.sty
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 3382.
+
+(/usr/local/texlive/2008/texmf-dist/tex/generic/oberdiek/bitset.sty
+Package: bitset 2007/09/28 v1.0 Data type bit set (HO)
+
+(/usr/local/texlive/2008/texmf-dist/tex/generic/oberdiek/intcalc.sty
+Package: intcalc 2007/09/27 v1.1 Expandable integer calculations (HO)
+)
+(/usr/local/texlive/2008/texmf-dist/tex/generic/oberdiek/bigintcalc.sty
+Package: bigintcalc 2007/11/11 v1.1 Expandable big integer calculations (HO)
+
+(/usr/local/texlive/2008/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2007/12/12 v0.3 LuaTeX support for pdfTeX utility functions
+ (HO)
+Package pdftexcmds Info: LuaTeX not detected on input line 139.
+)))
+(/usr/local/texlive/2008/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2007/09/29 v1.3 Key value parser with default handler suppor
+t (HO)
+)
+\Fld@menulength=\count95
+\Field@Width=\dimen108
+\Fld@charsize=\dimen109
+\Field@toks=\toks17
+Package hyperref Info: Hyper figures ON on input line 4297.
+Package hyperref Info: Link nesting OFF on input line 4304.
+Package hyperref Info: Hyper index ON on input line 4307.
+Package hyperref Info: backreferencing ON on input line 4312.
+Package hyperref Info: Link coloring ON on input line 4317.
+Package hyperref Info: Link coloring with OCG OFF on input line 4324.
+Package hyperref Info: PDF/A mode OFF on input line 4329.
+
+(/usr/local/texlive/2008/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2008/07/31 v1.9 At begin shipout hook (HO)
+)
+\Hy@abspage=\count96
+\c@Item=\count97
+\c@Hfootnote=\count98
+)
+*hyperref using driver hpdftex*
+(/usr/local/texlive/2008/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2009/02/22 v6.78p Hyperref driver for pdfTeX
+\Fld@listcount=\count99
+)
+(/usr/local/texlive/2008/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2008/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2006/02/20 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2008/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2008/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 90.
+)
+\Gin@req@height=\dimen110
+\Gin@req@width=\dimen111
+)
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 174.
+
+) (./StyleFiles/watermark.sty
+
+LaTeX Warning: You have requested package `StyleFiles/watermark',
+               but the package provides `watermark'.
+
+Package: watermark 2002/01/29 v1.00 Watermarks (NCC)
+) (./thesis.aux (./Certificate/certificate.aux)
+(./Acknowledgement/acknowledgement.aux) (./Introduction/introduction.aux)
+(./Chapter1/chapter1.aux) (./Chapter2/chapter2.aux) (./Chapter3/chapter3.aux)
+(./Conclusions/conclusions.aux) (./Appendix1/appendix1.aux)
+(./Appendix2/appendix2.aux))
+\openout1 = `thesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+
+(/usr/local/texlive/2008/texmf-dist/tex/context/base/supp-pdf.tex
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count100
+\scratchdimen=\dimen112
+\scratchbox=\box26
+\nofMPsegments=\count101
+\nofMParguments=\count102
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count103
+\MPscratchDim=\dimen113
+\MPnumerator=\count104
+\everyMPtoPDFconversion=\toks19
+)
+Package hyperref Info: Link coloring ON on input line 66.
+ (/usr/local/texlive/2008/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
+
+(/usr/local/texlive/2008/texmf-dist/tex/latex/oberdiek/refcount.sty
+Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
+)
+\c@section@level=\count105
+)
+LaTeX Info: Redefining \ref on input line 66.
+LaTeX Info: Redefining \pageref on input line 66.
+
+(./thesis.out) (./thesis.out)
+\@outlinefile=\write4
+\openout4 = `thesis.out'.
+
+Package backref Info: ** backref set up for natbib ** on input line 66.
+\AtBeginShipoutBox=\box27
+LaTeX Font Info:    Try loading font information for U+msa on input line 87.
+
+(/usr/local/texlive/2008/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2002/01/19 v2.2g AMS font definitions
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 87.
+
+(/usr/local/texlive/2008/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2002/01/19 v2.2g AMS font definitions
+) [0
+
+{/usr/local/texlive/2008/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+\openout2 = `Certificate/certificate.aux'.
+
+
+(./Certificate/certificate.tex
+LaTeX Font Info:    Try loading font information for U+yswab on input line 6.
+
+(/usr/local/texlive/2008/texmf-dist/tex/latex/mfnfss/uyswab.fd
+File: Uyswab.fd 1998/06/07 v2.1j YH Schwabacher font definitions
+)
+
+LaTeX Font Warning: Font shape `U/yswab/b/n' undefined
+(Font)              using `U/yswab/m/n' instead on input line 6.
+
+[1
+
+
+])
+\openout2 = `Acknowledgement/acknowledgement.aux'.
+
+ (./Acknowledgement/acknowledgement.tex [2
+
+
+]) (./thesis.toc [3
+\FN@pp@footnotehinttrue 
+
+
+])
+\tf@toc=\write5
+\openout5 = `thesis.toc'.
+
+ [4] (./thesis.lof)
+\tf@lof=\write6
+\openout6 = `thesis.lof'.
+
+ (./thesis.nls [5
+
+]) [6
+
+]
+\openout2 = `Introduction/introduction.aux'.
+
+ (./Introduction/introduction.tex
+Chapter 1.
+[1
+
+
+
+]) [2]
+\openout2 = `Chapter1/chapter1.aux'.
+
+ (./Chapter1/chapter1.tex
+Chapter 2.
+<Chapter1/Chapter1Figs/aflow.jpg, id=210, 454.87589pt x 658.93236pt>
+File: Chapter1/Chapter1Figs/aflow.jpg Graphic file (type jpg)
+
+<use Chapter1/Chapter1Figs/aflow.jpg> [3
+
+
+
+] [4 <./Chapter1/Chapter1Figs/aflow.jpg>]) [5]
+\openout2 = `Chapter2/chapter2.aux'.
+
+ (./Chapter2/chapter2.tex
+Chapter 3.
+) [6
+
+
+
+]
+\openout2 = `Chapter3/chapter3.aux'.
+
+ (./Chapter3/chapter3.tex
+Chapter 4.
+[7
+
+
+
+]) [8]
+\openout2 = `Conclusions/conclusions.aux'.
+
+ (./Conclusions/conclusions.tex
+Chapter 5.
+) [9
+
+
+
+]
+\openout2 = `Appendix1/appendix1.aux'.
+
+ (./Appendix1/appendix1.tex) [10
+
+
+
+
+]
+\openout2 = `Appendix2/appendix2.aux'.
+
+ (./Appendix2/appendix2.tex) [11
+
+
+
+]
+(./thesis.bbl (./thesis.brf)
+\tf@brf=\write7
+\openout7 = `thesis.brf'.
+
+) [12
+
+
+] (./thesis.aux (./Certificate/certificate.aux) (./Acknowledgement/acknowledgem
+ent.aux) (./Introduction/introduction.aux)
+(./Chapter1/chapter1.aux) (./Chapter2/chapter2.aux) (./Chapter3/chapter3.aux)
+(./Conclusions/conclusions.aux) (./Appendix1/appendix1.aux)
+(./Appendix2/appendix2.aux))
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 6114 strings out of 493876
+ 87454 string characters out of 1150567
+ 162675 words of memory out of 3000000
+ 9125 multiletter control sequences out of 10000+50000
+ 19338 words of font info for 73 fonts, out of 3000000 for 5000
+ 714 hyphenation exceptions out of 8191
+ 43i,12n,50p,4363b,382s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmbx12.pfb></usr/l
+ocal/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmex10.pfb></usr/local/texl
+ive/2008/texmf-dist/fonts/type1/bluesky/cm/cmmi12.pfb></usr/local/texlive/2008/
+texmf-dist/fonts/type1/bluesky/cm/cmmi8.pfb></usr/local/texlive/2008/texmf-dist
+/fonts/type1/bluesky/cm/cmmib10.pfb></usr/local/texlive/2008/texmf-dist/fonts/t
+ype1/bluesky/cm/cmr10.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/blues
+ky/cm/cmr12.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmr7
+.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmr8.pfb></usr/
+local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmsy10.pfb></usr/local/tex
+live/2008/texmf-dist/fonts/type1/bluesky/cm/cmti12.pfb></usr/local/texlive/2008
+/texmf-dist/fonts/type1/bluesky/cm/cmti8.pfb></usr/local/texlive/2008/texmf-dis
+t/fonts/type1/public/gothic/yswab.pfb>
+Output written on thesis.pdf (19 pages, 190233 bytes).
+PDF statistics:
+ 324 PDF objects out of 1000 (max. 8388607)
+ 57 named destinations out of 1000 (max. 131072)
+ 242 words of extra memory for PDF output out of 10000 (max. 10000000)
+

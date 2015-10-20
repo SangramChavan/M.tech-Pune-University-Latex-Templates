@@ -1,0 +1,67 @@
+
+% Thesis Abstract -----------------------------------------------------
+
+
+%\begin{abstractslong}    %uncommenting this line, gives a different abstract heading
+\begin{certificate}        %this creates the heading for the abstract page
+
+This is to certify that the work entitled \textbf{``Parallel Implementation of Long-Range Electrostatic 
+Treatment for Molecular \linebreak Simulations"} is a bonafide work carried out by \textbf{Dinesh D. Mali} 
+in partial fulfillment of the award of the degree of \textit{Master of Technology}
+in \textit{Modeling and Simulation} of University of Pune, during second half of Academic year 2011-12 
+under my guidance and supervision.
+
+\vspace*{85pt}
+
+\begin{minipage}[t]{0.5\textwidth}%
+\begin{flushleft}
+ 
+Dr. Uddhavesh Sonavane\\
+\emph{Project Guide}\\
+Bio-informatics group\\
+Center for Development of Advanced Computing\\
+Pune.
+\end{flushleft}
+\end{minipage}\hspace{0.5cm}
+\begin{minipage}[t]{0.4\textwidth}%
+\begin{flushleft}
+ {
+Dr. Sheelan S. Chowdhury \\
+\emph{Internal Guide}}\\
+Center for Modeling and Simulation\\
+University of Pune \\
+Pune
+
+\end{flushleft}
+
+\end{minipage}
+ \vfill
+\begin{minipage}[t]{0.5\textwidth}%
+\vspace*{135pt}
+\begin{tabular}{lcl}
+Date & : & June 26 2012 \tabularnewline
+Place &: & Pune \tabularnewline
+\end{tabular}%
+\end{minipage}\hspace{0.5cm}
+\begin{minipage}[t]{0.4\textwidth}%
+\vspace*{45pt}
+\begin{flushleft}
+Mr. Dinesh Dagadu Mali\\
+\emph{Project Student}\\
+M.Tech.(M \& S) - II\\
+Center for Modeling and Simulation\\
+University of Pune \\
+Pune    \end{flushleft}
+
+\end{minipage}
+\end{certificate}
+%\end{abstractlongs}
+
+
+% ----------------------------------------------------------------------
+
+
+%%% Local Variables: 
+%%% mode: latex
+%%% TeX-master: "../thesis"
+%%% End: 
